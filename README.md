@@ -8,7 +8,7 @@ This package simplifies your interaction with various GPT models, eliminating th
 You can install the package via NPM
 
 ```bash
-npm i gpti
+npm i github:Rikikangsc2/gpti-2.0.1
 ```
 
 ## Usage GPT
